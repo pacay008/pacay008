@@ -1,0 +1,35 @@
+<title>IT Fundamentals</title>
+<ul>
+<li>Aaron</li>
+<li>110316312</li>
+<li>pacay008@mymail.unisa.edu.au</li>
+<li>Bachelor of Networking and Cybersecurity</li>
+<ul>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg. 
+<a href=https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg. 
+
+<table style="width:50%">
+  <tr>
+    <th>Number</th>
+    <th>Colour</th>
+    <th>Size</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Red</td>
+    <td><Big</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Yellow</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Green</td>
+    <td>Small</td>
+</table>
+
+<code> my_function():def my_function():
+    print("Hello from a function")
+</code>    

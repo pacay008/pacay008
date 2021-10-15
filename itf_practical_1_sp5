@@ -1,0 +1,26 @@
+<h3>IT Fundamentals</h3>
+
+Markdown Task
+
+Name: Aaron  
+
+Student ID: 110316312
+
+Email Address: pacay008.mymail.unisa.edu.au 
+
+Program: Bachelor of Networking and Cybersecurity 
+
+![Wikimedia upload!](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg."Wikimedia")
+
+Here's the link: https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg.
+
+| Number      | Colour      | Size          |
+| :---        |    :----:   |          ---: |
+| 1           | Red         | Big           |
+| 2           | Yellow      | Meduim        |
+| 3           | Green       | Small         |
+
+```python
+def my_function():
+          print("Hello from a function")
+```
